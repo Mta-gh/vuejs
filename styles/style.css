@@ -1,0 +1,21 @@
+.box {
+  width: 100px;
+  height: 100px;
+  background: aquamarine;
+}
+
+.box.two {
+  background: tomato;
+}
+
+.box.three {
+  background: royalblue;
+}
+
+.box.four {
+  background: pink;
+}
+
+[v-cloak] {
+  display: none;
+}
